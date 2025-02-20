@@ -3,3 +3,46 @@ body {
   height: 100%;
   margin: 0;
 }
+h1 
+{
+  text-align: center;
+}
+nav
+{
+  width: 100%;
+  text-align: center;
+}
+a{
+  padding: 0 10px;
+  background-color: azure;
+}
+section{
+  width: 100%;
+}
+figure
+{
+  margin: auto;
+}
+figcaption
+{
+  font-size: 12px;
+  text-align: center;
+}
+img
+{
+  display: block;
+  margin: auto;
+}
+
+#featured-property p{
+  width: 800px;
+  margin: 20px auto;
+  text-align: center;
+}
+
+#details div{
+  float: left;
+  background-color: azure;
+  width: 25%;
+  text-align: center;
+}
